@@ -22,5 +22,5 @@ const ehAdulta = idade >= 18 && idade <= 60;
 if (ehAdulta && temCarteirinha === false) {
   console.log("INTEIRA");
 } else {
-  console.log("MEIA");
+  console.log("MEIA!");
 }

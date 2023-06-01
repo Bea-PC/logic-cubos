@@ -6,4 +6,4 @@ if (condicao) {
   console.log("É falso!");
 }
 
-console.log("Acabou");
+console.log("Finale");

@@ -21,4 +21,4 @@ if (precoDoProduto2 < 3) {
 console.log("comprei o produto 3");
 custo += precoDoProduto3;
 
-console.log("Eu paguei", custo, "reais.");
+console.log("Eu paguei", custo, "reais!");
